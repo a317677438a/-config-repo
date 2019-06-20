@@ -3,8 +3,8 @@ spring:
     name: order-service
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: ******
-    password: ******
+    username: 123456
+    password: 123456
     url: jdbc:mysql://111.230.245.121:3306/springcloud_product?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=true
 PRODUCT-SERVICE:
   ribbon:
