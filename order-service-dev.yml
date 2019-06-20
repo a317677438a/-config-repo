@@ -9,4 +9,4 @@ spring:
 PRODUCT-SERVICE:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
-env: dev8
+env: dev10
